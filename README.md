@@ -108,9 +108,3 @@ terraform destroy -auto-approve
 * EC2 instance runs a basic Apache web server using user\_data.
 * Subnet CIDRs are configured to avoid overlap.
 * The architecture can be further optimized for high availability (e.g., autoscaling, AZ redundancy).
-
----
-
-## 📝 License
-
-MIT License. Free to use and modify.
